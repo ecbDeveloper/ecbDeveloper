@@ -35,7 +35,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/ecb-developer/ecb-developer/output/snake.svg" alt="Snake animation" />
-
-###
