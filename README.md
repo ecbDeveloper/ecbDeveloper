@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Eduardo and I'm a fullstack Developer, from Brazil.</h2>
+<h2 align="left">Hi 👋! My name is Eduardo and I'm a Full-Stack Developer, from Brazil.</h2>
 
 ###
 
@@ -35,8 +35,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/ecb-developer/ecb-developer/output/snake.svg" alt="Snake animation" />
 
