@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Eduardo and I'm a Full-Stack Developer, from Brazil.</h2>
+<h2 align="center">Hi 👋! My name is Eduardo and I'm a Full-Stack Developer, from Brazil.</h2>
 
 ###
 
@@ -28,7 +28,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/castilhoeduardo/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -38,8 +38,6 @@
 </div>
 
 ###
-
-![GitHub Snake Animation](https://github.com/ecb-developer/ecb-developer/blob/output/snake.svg)
-
-
-###
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ecb-developer/ecb-developer/output/snake.svg" alt="Snake animation" />
+</div>
