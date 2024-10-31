@@ -39,6 +39,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ecb-developer/ecb-developer/output/snake.svg" alt="Snake animation" />
+![GitHub Snake Animation](https://github.com/ecb-developer/ecb-developer/blob/output/snake.svg)
 
 ###
