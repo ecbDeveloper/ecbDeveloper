@@ -2,13 +2,6 @@
 
 ###
   
-
-###
-![EcbCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=EcbCode&show_icons=true&theme=dracula)
-
-
-
-
 <div align="center">
   <img src="https://cdn.simpleicons.org/go/00ADD8" height="30" alt="go logo"  />
   <img width="12" />
@@ -38,6 +31,7 @@
 </div>
 
 ###
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/ecb-developer/ecb-developer/output/snake.svg" alt="Snake animation" />
 </div>
