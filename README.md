@@ -1,9 +1,13 @@
 <h2 align="center">Hi 👋! My name is Eduardo and I'm Back-end Developer, from Brazil.</h2>
 
 ###
-
+  
 
 ###
+![EcbCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=EcbCode&show_icons=true&theme=dracula)
+
+
+
 
 <div align="center">
   <img src="https://cdn.simpleicons.org/go/00ADD8" height="30" alt="go logo"  />
