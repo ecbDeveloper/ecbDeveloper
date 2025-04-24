@@ -9,7 +9,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedjs/339933" height="30" alt="nodejs logo"  />
+  <img src="https://cdn.simpleicons.org/nodedotjs" height="30" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/react" height="30" alt="react logo"  />
   <img width="12" />
