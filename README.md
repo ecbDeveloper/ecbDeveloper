@@ -42,6 +42,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ecbDeveloper/ecbDeveloper/output/snake.svg" alt="Snake animation" />
+<img align="center" src="https://raw.githubusercontent.com/ecbDeveloper/ecbDeveloper/output/snake.svg" alt="Snake animation" />
 
 ###
