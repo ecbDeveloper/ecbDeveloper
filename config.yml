@@ -20,7 +20,8 @@ galaxy_arms:
     color: "synapse_cyan"
     items:
       - "Golang"
-      - "Node.js"
+      - "Nest"
+      - "Node"
       - "PostgreSQL"
       - "GraphQL"
   - name: "DevOps"
