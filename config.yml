@@ -27,6 +27,8 @@ galaxy_arms:
   - name: "DevOps"
     color: "axon_amber"
     items:
+      - "Kubernetes"
+      - "Terraform"
       - "Docker"
       - "GitHub Actions"
 
@@ -61,4 +63,6 @@ languages:
   exclude:
     - "HTML"
     - "CSS"
+    - "PHP"
+    - "Vue"
   max_display: 5
